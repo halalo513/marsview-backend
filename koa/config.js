@@ -9,8 +9,8 @@ const SERVER_HOST = 'http://localhost';
 const SERVER_PORT = 5000;
 const DATABASE_HOST = 'localhost';
 const DATABASE_PORT = 3306;
-const DATABASE_USER = '';
-const DATABASE_PASSWORD = '';
+const DATABASE_USER = 'root';
+const DATABASE_PASSWORD = 'root';
 const DATABASE_NAME = 'marsview';
 
 /**
@@ -41,8 +41,8 @@ const OSS_CDNDOMAIN2 = '';
  */
 const EMAIL_HOST = 'smtp.163.com';
 const EMAIL_PORT = 465;
-const EMAIL_USER = '';
-const EMAIL_PASSWORD = '';
+const EMAIL_USER = 'yaozhang2000@163.com';
+const EMAIL_PASSWORD = "ERnwkedvU5YZrkvj";
 
 /**
  * 大模型配置
